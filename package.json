@@ -13,8 +13,16 @@
   ],
   "author": "Daniel Reyes <danielalejndro@gmail.com>",
   "license": "ISC",
-  "bin":{
-    "random-msgge": "./bin/global.js"
+  "bin": {
+    "random-msgge": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RDanielcode/npmRandomMessage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RDanielcode/npmRandomMessage/issues"
+  },
+  "homepage": "https://github.com/RDanielcode/npmRandomMessage#readme"
 }
