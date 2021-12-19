@@ -1,0 +1,20 @@
+{
+  "name": "submitnpm",
+  "version": "1.0.0",
+  "description": "building a package for nd",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Daniel Reyes <danielalejndro@gmail.com>",
+  "license": "ISC",
+  "bin":{
+    "random-msgge": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
